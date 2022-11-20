@@ -2,5 +2,9 @@
 ALX
 =======
 #!/bin/bash
+<<<<<<< HEAD
 echo "ALX School is so cool"
 >>>>>>> 101d0975c8c72ff46f89e6649b79b49fa708415a
+=======
+echo "ALX School"
+>>>>>>> origin/update_script
